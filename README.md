@@ -1,2 +1,1 @@
-build 1
-testing 1
+build test1
